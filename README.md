@@ -12,5 +12,5 @@
 <p>* preservar a natureza</p>
 <body>
 <header> 
-<div> class='marialuiza meioambiente'>
-<img src="maria.delfino">
+
+  <img src= 'file:///home/professor/%C3%81rea%20de%20Trabalho/imgres.html'</img src>
